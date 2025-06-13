@@ -18,7 +18,7 @@ Open RL Benchmark is a comprehensive collection of tracked experiments for RL. I
 
 
 ## Installation
-You can install it via pip or the dev setup.
+You can install it via the dev setup.
 
 ### Dev Setup
 
